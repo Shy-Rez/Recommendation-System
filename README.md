@@ -1,8 +1,4 @@
-# Netflix Recommendation System
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Scikit-Surprise](https://img.shields.io/badge/Library-Scikit--Surprise-orange.svg)
-![Machine Learning](https://img.shields.io/badge/Domain-Machine_Learning-success.svg)
+# Recommendation Systems for Personalized Content Discovery
 
 ## Overview
 This project develops a highly personalized movie recommendation engine utilizing the legendary **Netflix Prize Dataset**. The objective is to intelligently learn user preferences from historical movie ratings, overcome extreme matrix sparsity, and generate highly relevant Top-K recommendations for unseen content.
